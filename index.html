@@ -13,15 +13,18 @@
     />
     <link rel="stylesheet" href="static/css/style.css">
 </head>
-<body>
+<body class="bg-dark"></body>
     <div class="wrapper">
-        <nav class="navbar navbar-expand-lg">
+      <!-- Navbar -->
+        <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
             <a class="navbar-brand" href="index.html">UFO Sightings</a>
         </nav>
     </div>
+      <!-- Jumbotron -->
     <div class="jumbotron">
-        <h1>The Truth Is Out There</h1>
+        <h1 class="display-4">The Truth Is Out There</h1>
     </div>
+      <!-- Article title and paragraph -->
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-4">
@@ -35,24 +38,26 @@
         </div>
     </div>
 
+          <!-- Filter -->
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3">
-                <form>
+                <form class="bg-dark">
                     <p>Filter Search</p>
-                    <ul class="list-group">
+                    <ul class="list-group bg-dark">
 
                     </ul>
-                    <li class="list-group-item">
+                    <li class="list-group-item bg-dark">
                         <label for="date">Enter Date</label>
-                        <input type="text" placeholder="1/10/2010" id="datetime" />
+                        <input type="text" placeholder="1/10/2010" id="datetime"/>
                     </li>
-                    <li class="list-group-item">
-                        <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
+                    <li class="list-group-item bg-dark">
+                        <button id="filter-btn" type="button" class="btn-dark">Filter Table</button>
                     </li>
                     
                 </form>
             </div>
+          <!-- Table -->
             <div class="col-md-9">
                 <table class="table table-striped">
                     <thead>
@@ -72,7 +77,9 @@
             </div>
         </div>
     </div>
-    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.12.0/d3.js"></script>
+<script src="static/js/data.js"></script>
+<script src="static/js/app.js"></script>
 </body>
 </html>
 
