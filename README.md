@@ -19,13 +19,15 @@ You can access the webpage we have created by following this link: [UFO Sighting
 
 You will see the below webpage:
  
-![Alt text]()
+![Alt text](https://github.com/sofiwolfes/UFOs/blob/main/Challenge/Starter_Code/web/static/images/Screenshot%202023-01-08%20at%2010.39.11%20AM.png)
 
+Here is how the body of the webpage looks with some filters applied:
+![Alt text](https://github.com/sofiwolfes/UFOs/blob/main/Challenge/Starter_Code/web/static/images/Screenshot%202023-01-08%20at%2010.39.46%20AM.png)
 
 ## How to perform a search:
 On the left hand side of the website, you will find the following options to filter your search:
 
-![Alt text]()
+![Alt text](https://github.com/sofiwolfes/UFOs/blob/main/Challenge/Starter_Code/web/static/images/Screenshot%202023-01-08%20at%2010.39.24%20AM.png)
 
 You can enter the filters you want, and the page will automatically narrow down the search for you.
 
