@@ -17,7 +17,7 @@ In the table, there will be several filters the users can use to narrow down the
 ## Results:
 You can access the webpage we have created by following this link:
 
-[UFO Sightings](https://github.com/sofiwolfes/UFOs/blob/main/Challenge/Starter_Code/web/index.html)
+[UFO Sightings](https://rawgit.com/sofiwolfes/UFOs/main/Challenge/Starter_Code/web/index.html)
  
 (Image 1)
 (Image 2)
